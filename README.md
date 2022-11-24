@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GaMeNu
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Java in school
-- 💞️ I’m looking to collaborate on nothing yet, sorry.
-- 📫 How to reach me: 
+- 🌱 I’m currently learning (and failing at) Java on high-school
+^ Is that enough info, GitHub?
 
 My username is actually GameMenu but that was taken.
 
