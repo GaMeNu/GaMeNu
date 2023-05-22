@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GaMeNu
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning (and failing at) Java through high-school and uni.
+- 🌱 I’m currently learning (and failing at) and C through uni.
+- Most proficient with Python
 
 ^ Is that enough info, GitHub?
 
