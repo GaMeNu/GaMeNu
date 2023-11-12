@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @GaMeNu
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning (and failing at) and C through uni.
-- Most proficient with Python
+HAi I am *GaMeNu* welcome to whatever the hell this is.
 
-^ Is that enough info, GitHub?
+I code mostly in Python (my beloved ❤️) and Java, and know some C.
 
-My username is actually GameMenu but that was taken.
+Favorite libraries and frameworks include:
+- discord.py
+- PaperMC
+- Um
+- Pain
+- Android development
 
-I don't know what the hell am I doing but it somehow works so whatever i guess.
+I may learn JS and WebDev at some point...
+
+I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em (according to repositories' licensing terms, usually GPL v3)!
 
 <!---
 GaMeNu/GaMeNu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
