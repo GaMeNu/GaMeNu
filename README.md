@@ -7,6 +7,7 @@ Favorite libraries and frameworks include:
 - PaperMC
 - Um
 - Pain
+- [fuckit.py](https://github.com/ajalt/fuckitpy)
 - Android development
 
 I may learn JS and WebDev at some point...
