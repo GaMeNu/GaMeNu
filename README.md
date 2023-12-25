@@ -10,6 +10,7 @@ HAi I am *GaMeNu* welcome to whatever the hell this is.
 (I know that ain't the Java logo, shhh)
 
 ## LinkMe!
+Discord: @gamenu
 
 
 I code mostly in Python (my beloved ❤️) and Java, and know some C.
