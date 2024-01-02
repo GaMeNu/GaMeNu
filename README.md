@@ -36,7 +36,8 @@ I depracate repositories faster than Sonic on Coke, but I usually don't private 
 > pip install discord.py
 [20:01:23] Collecting discord.py...
 
-[21:17:12] Installing collected package discord.py
+[21:17:12]   Downloading discord.py...
+                |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■|
 [21:17:13] Process ended with exit code 69420
 ```
 
