@@ -32,14 +32,7 @@ AAAHAAAHAHAHA!
 
 I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em! (Keep in mind repositories' licensing terms, 
 
-```
-> pip install discord.py
-[20:01:23] Collecting discord.py...
-
-[21:17:12]   Downloading discord.py...
-                |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■|
-[21:17:13] Process ended with exit code 69420
-```
+(Still waiting for pip to install a single package)
 
 <!---
 GaMeNu/GaMeNu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
