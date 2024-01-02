@@ -26,7 +26,9 @@ Favorite libraries and frameworks include:
 
 I may learn JS and WebDev at some point...
 
-And that point is NEVER!!!!!!! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+And that point is NEVER!!!
+
+AAAHAAAHAHAHA!
 
 I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em (according to repositories' licensing terms, usually GPL v3)!
 
