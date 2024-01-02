@@ -30,7 +30,7 @@ And that point is NEVER!!!
 
 AAAHAAAHAHAHA!
 
-I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em (according to repositories' licensing terms, usually GPL v3)!
+I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em! (Keep in mind repositories' licensing terms, usually GPL v3)
 
 <!---
 GaMeNu/GaMeNu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
