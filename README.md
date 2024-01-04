@@ -2,9 +2,11 @@ HAi I am *GaMeNu* welcome to whatever the hell this is.
 
 ## Langs n' Libs
 
-[<p style="text-align:center">[<img alt="Python badge" src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white&labelColor=%23306998&color=%234B8BBE&link=https%3A%2F%2Fwww.python.org%2F">](https://www.python.org/)
+<p style="text-align:center">
+[<img alt="Python badge" src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white&labelColor=%23306998&color=%234B8BBE&link=https%3A%2F%2Fwww.python.org%2F">](https://www.python.org/)
 [<img alt="Java badge" src="https://img.shields.io/badge/Java-%23306998?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=%23ED1D25&color=%23F14C4D&link=https%3A%2F%2Fwww.java.com%2F">](https://www.java.com/)
-[<img alt="discord.py badge" src="https://img.shields.io/badge/Discord.py-%23306998?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%234B8BBE&link=https%3A%2F%2Fwww.discordpy.readthedocs.io%2Fen%2Fstable%2F">](https://www.discordpy.readthedocs.io/en/stable/)</p>]
+[<img alt="discord.py badge" src="https://img.shields.io/badge/Discord.py-%23306998?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%234B8BBE&link=https%3A%2F%2Fwww.discordpy.readthedocs.io%2Fen%2Fstable%2F">](https://www.discordpy.readthedocs.io/en/stable/)
+</p>
 
 [<img alt="JetBrains IDE" src="https://img.shields.io/badge/JetBrains%20IDE-%23000000?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fwww.jetbrains.com%2F">](https://www.jetbrains.com/)
 
