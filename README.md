@@ -25,7 +25,7 @@ HAi I am *GaMeNu* welcome to whatever the hell this is.
 ## Link me!
 Discord: @gamenu
 
-
+## General info
 I code mostly in Python (my beloved ❤️) and Java, and know some C.
 
 Favorite libraries and frameworks include:
