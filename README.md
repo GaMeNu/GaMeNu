@@ -13,7 +13,7 @@ HAi I am *GaMeNu* welcome to whatever the hell this is.
 </p>
 
 <p style="text-align:center">
-<a href="https://www.discordpy.readthedocs.io/en/stable/"<
+<a href="https://www.discordpy.readthedocs.io/en/stable/">
 <img alt="discord.py badge" src="https://img.shields.io/badge/Discord.py-%23306998?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%234B8BBE&link=https%3A%2F%2Fwww.discordpy.readthedocs.io%2Fen%2Fstable%2F">
 </a>
 </p>
