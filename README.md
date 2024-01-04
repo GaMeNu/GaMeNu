@@ -36,7 +36,7 @@ Favorite libraries and frameworks include:
 - [fuckit.py](https://github.com/ajalt/fuckitpy)
 - Android development
 
-I may learn JS and WebDev at some point...
+I may learn JS and/or WebDev at some point...
 
 And that point is NEVER!!!
 
