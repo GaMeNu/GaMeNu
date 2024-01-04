@@ -22,7 +22,7 @@ HAi I am *GaMeNu* welcome to whatever the hell this is.
 
 (I know that ain't the Java logo, shhh)
 
-## LinkMe!
+## Link me!
 Discord: @gamenu
 
 
