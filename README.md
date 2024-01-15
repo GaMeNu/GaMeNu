@@ -13,6 +13,7 @@
   <a href="https://www.java.com/">
     <img alt="Java badge" src="https://img.shields.io/badge/Java-%23306998?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=%23ED1D25&color=%23F14C4D&link=https%3A%2F%2Fwww.java.com%2F"/>
   </a>
+  <hr/>
   <a href="https://www.antlr.org/">
     <img alt="ANTLR badge" src="https://img.shields.io/badge/ANTLR-red?style=for-the-badge"/>
   </a>
