@@ -1,8 +1,10 @@
-HAi I am *GaMeNu* welcome to whatever the hell this is.
+# HAi I am *GaMeNu* 
 
-## Langs n' Libs
+## welcome to whatever the hell this is.
 
-<!-- HTML Moment -->
+### My code may garbage, but I try my best I guess
+
+## Langs/libs/tools I use
 
 <p style="text-align:center">
 <a href="https://www.python.org/">
