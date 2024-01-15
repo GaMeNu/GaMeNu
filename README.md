@@ -24,7 +24,7 @@
 
 (I know that ain't the Java logo, shhh)
 
-## Link me!
+## Links!
 Discord: @gamenu
 
 ## General info
