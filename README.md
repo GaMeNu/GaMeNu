@@ -21,6 +21,13 @@
     <img alt="discord.py badge" src="https://img.shields.io/badge/Discord.py-%23306998?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%234B8BBE&link=https%3A%2F%2Fwww.discordpy.readthedocs.io%2Fen%2Fstable%2F">
    </a>
   <hr/>
+  <a href="https://www.mysql.com/">
+    <img alt="MySQL badge" src="https://img.shields.io/badge/-MySQL-%20%23F29111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%2300758F"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL badge" src="https://img.shields.io/badge/-PostgreSQL-%23666666?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%23336791"/>
+  </a>
+  <hr/>
   <a href="https://www.jetbrains.com/">
     <img alt="JetBrains IDEs badge" src="https://img.shields.io/badge/JetBrains%20IDEs-%23000000?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fwww.jetbrains.com%2F"/>
   </a>
