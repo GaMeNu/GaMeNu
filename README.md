@@ -5,7 +5,8 @@
 ### My code may garbage, but I try my best I guess
 
 ## Langs/libs/tools I use
-
+### Summary
+![GaMeNu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaMeNu&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 <p style="text-align:center">
   <a href="https://www.python.org/">
     <img alt="Python badge" src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white&labelColor=%23306998&color=%234B8BBE&link=https%3A%2F%2Fwww.python.org%2F"/>
