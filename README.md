@@ -1,8 +1,10 @@
-# HAi I am *GaMeNu* 
+<h1 align="center">HAi I am <i>GaMeNu</i></h1> 
 
-## welcome to whatever the hell this is.
+<h2 align="center">welcome to whatever the hell this is.</h2>
 
-### My code may garbage, but I try my best I guess
+<p align="center">
+  $${\color{red}"My} {\color{red}code}{\color{red}may} {\color{red}be}{\color{red}garbage,} {\color{red}but} {\color{red}I} {\color{red}try} {\color{red}my} {\color{red}best...} {\color{red}I} {\color{red}guess."}$$
+</p>
 <hr/>
 
 ## Langs/libs/tools I use
