@@ -13,7 +13,7 @@
   </p>
 </span>
 <span align="left" style="float:left;">
-  <h3>Langs:</h3>
+  <h3>Langs</h3>
   <p align="left" style="text-align:center">
     <a href="https://www.python.org/">
       <img alt="Python badge" src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white&labelColor=%23306998&color=%234B8BBE&link=https%3A%2F%2Fwww.python.org%2F"/>
@@ -24,7 +24,7 @@
     <a href="https://en.wikipedia.org/wiki/JavaScript">
       <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-NONE?style=for-the-badge&logo=javascript&logoColor=%23F0DB4F&labelColor=%23323330&color=%23F0DB4F">
     </a>
-    <h3>Tools</h3>
+    <h3>Tools/Libs</h3>
     <a href="https://www.antlr.org/">
       <img alt="ANTLR badge" src="https://img.shields.io/badge/ANTLR-red?style=for-the-badge"/>
     </a>
