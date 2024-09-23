@@ -5,13 +5,14 @@
 ### My code may garbage, but I try my best I guess
 <hr/>
 
-## Langs/libs/tools I use
-<!-- TODO align image to right -->
 <span align="right" style="float:right;">
   <p align="left">
     <img alt="GaMeNu's Top Languages" align="right" style="float: right;" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=GaMeNu&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
   </p>
 </span>
+
+## Langs/libs/tools I use
+
 <span align="left" style="float:left;">
   <h3>Langs</h3>
   <p align="left" style="text-align:center">
