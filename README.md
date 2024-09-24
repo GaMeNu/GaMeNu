@@ -43,8 +43,12 @@
     <a href="https://www.jetbrains.com/">
       <img alt="JetBrains IDEs badge" src="https://img.shields.io/badge/JetBrains%20IDEs-%23000000?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fwww.jetbrains.com%2F"/>
     </a>
-      <a href="https://developer.android.com/studio">
+    <a href="https://developer.android.com/studio">
       <img alt="Android Studio badge" src="https://img.shields.io/badge/Android_Studio-4285F4?style=for-the-badge&logo=android-studio&logoColor=ffffff&labelColor=3DDC84"/>
+    </a>
+    <a href="https://code.visualstudio.com/">
+      <img alt="VS Code Badge" src="https://img.shields.io/badge/VS--Code-NONE?style=for-the-badge&logo=vscodium&logoColor=%23252526&labelColor=%230098FF&color=%230065A9&link=https%3A%2F%2Fcode.visualstudio.com%2F">
+
     </a>
   </p>
 
