@@ -48,7 +48,6 @@
     </a>
     <a href="https://code.visualstudio.com/">
       <img alt="VS Code Badge" src="https://img.shields.io/badge/VS--Code-NONE?style=for-the-badge&logo=vscodium&logoColor=%23252526&labelColor=%230098FF&color=%230065A9&link=https%3A%2F%2Fcode.visualstudio.com%2F">
-
     </a>
   </p>
 
