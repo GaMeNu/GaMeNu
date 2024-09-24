@@ -51,10 +51,12 @@
 (I know that ain't the Java logo, shhh)
 
 ## Links!
-Discord: @gamenu
+> Discord: @gamenu<br/>
+> GitHub: [GaMeNu](https://github.com/GaMeNu)<br/>
+> YouTube: [GaMeNu](https://www.youtube.com/@GaMeNu)<br/>
 
 ## General info
-I code mostly in Python (my beloved ❤️) and Java, and know some C.
+I code mostly in Python (my beloved ❤️) and Java, and know some C and JavaScript.
 
 Favorite libraries and frameworks include:
 - discord.py
@@ -72,7 +74,7 @@ AAAHAAAHAHAHA!
 
 I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em! (Keep in mind repositories' licensing terms, usually GPLv3 but make sure anyway)
 
-(Still waiting for pip to install a single package)
+[(Still waiting for pip to install a single package)](https://www.youtube.com/watch?v=_ws0QtAiiXQ)
 
 <!---
 GaMeNu/GaMeNu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
