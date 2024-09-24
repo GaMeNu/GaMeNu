@@ -75,6 +75,8 @@ And that point is NEVER!!!
 
 AAAHAAAHAHAHA!
 
+Update 2024: I know some JS ;-;
+
 I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em! (Keep in mind repositories' licensing terms, usually GPLv3 but make sure anyway)
 
 [(Still waiting for pip to install a single package)](https://www.youtube.com/watch?v=_ws0QtAiiXQ)
