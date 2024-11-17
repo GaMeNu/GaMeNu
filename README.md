@@ -52,11 +52,13 @@
   </p>
 
 (I know that ain't the Java logo, shhh)
+<hr/>
 
 ## Links!
 > Discord: @gamenu<br/>
 > GitHub: [GaMeNu](https://github.com/GaMeNu)<br/>
 > YouTube: [GaMeNu](https://www.youtube.com/@GaMeNu)<br/>
+<hr/>
 
 ## General info
 I code mostly in Python (my beloved ❤️) and Java, and know some C and JavaScript.
