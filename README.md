@@ -65,7 +65,7 @@ I code mostly in Python (my beloved ❤️) and Java, and know some C and JavaSc
 
 Favorite libraries and frameworks include:
 - discord.py
-- PaperMC
+- ANTLR
 - Um
 - Pain
 - [fuckit.py](https://github.com/ajalt/fuckitpy)
