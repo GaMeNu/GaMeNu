@@ -1,11 +1,6 @@
 <h1 align="center">HAi I am <i>GaMeNu</i></h1> 
 
 <h2 align="center">welcome to whatever the hell this is.</h2>
-
-<p align="center">
-  $${\color{red}"My} {\color{red}code}{\color{red}may} {\color{red}be}{\color{red}garbage,} {\color{red}but} {\color{red}I} {\color{red}try} {\color{red}my} {\color{red}best...} {\color{red}I} {\color{red}guess."}$$
-</p>
-<p align="center">"For all intents and purposes, the code above is a joke."</p>
 <hr/>
 
 ## Langs/libs/tools I use
@@ -61,26 +56,9 @@
 > YouTube: [GaMeNu](https://www.youtube.com/@GaMeNu)<br/>
 <hr/>
 
-## General info
-I code mostly in Python (my beloved ❤️) and Java, and know some C and JavaScript.
+(I had to "professionalize" my profile, so about half of the jokes here are gone :( )
 
-Favorite libraries and frameworks include:
-- discord.py
-- ANTLR
-- Um
-- Pain
-- [fuckit.py](https://github.com/ajalt/fuckitpy)
-- Android development
-
-I may learn JS and/or WebDev at some point...
-
-And that point is NEVER!!!
-
-AAAHAAAHAHAHA!
-
-Update 2024: I know some JS ;-;
-
-I depracate repositories faster than Sonic on Coke, but I usually don't private them, feel free to fork 'em! (Keep in mind repositories' licensing terms, usually GPLv3 but make sure anyway)
+Some of my repos may be archived, but feel free to fork 'em! (Keep in mind repositories' licensing terms, usually GPLv3 but make sure anyway)
 
 [(Still waiting for pip to install a single package)](https://www.youtube.com/watch?v=_ws0QtAiiXQ)
 
