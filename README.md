@@ -1,4 +1,4 @@
-<h1 align="center">HAi I am <i>$${{\color{red}Ga\color{blue}Me\color{green}Nu}}$$</i> :wave:</h1> 
+<h1 align="center">HAi I am <i>$${{\color{red}Ga\color{green}Me\color{blue}Nu}}$$</i> :wave:</h1> 
 
 <h2 align="center">welcome to whatever the hell this is.</h2>
 <hr/>
