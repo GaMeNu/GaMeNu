@@ -5,7 +5,7 @@
 <p align="center">
   $${\color{red}"My} {\color{red}code}{\color{red}may} {\color{red}be}{\color{red}garbage,} {\color{red}but} {\color{red}I} {\color{red}try} {\color{red}my} {\color{red}best...} {\color{red}I} {\color{red}guess."}$$
 </p>
-<p>"For all intents and purposes, the code above is a joke."</p>
+<p align="center">"For all intents and purposes, the code above is a joke."</p>
 <hr/>
 
 ## Langs/libs/tools I use
